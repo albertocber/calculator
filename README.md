@@ -4,7 +4,8 @@ An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
 
-[![Build Status](https://albertocuevasberlinches.visualstudio.com/MyShuttle/_apis/build/status/albertocber.calculator?branchName=master)](https://albertocuevasberlinches.visualstudio.com/MyShuttle/_build/latest?definitionId=13&branchName=master)
+[![Build Status](https://albertocuevasberlinches.visualstudio.com/MyShuttle/_apis/build/status/albertocber.calculator?branchName=master)]
+(https://albertocuevasberlinches.visualstudio.com/MyShuttle/_build/latest?definitionId=13&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
